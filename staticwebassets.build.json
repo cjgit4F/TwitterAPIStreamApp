@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "l6CxG/19uaoaui1AtqUWp9j+KQjPPKZ315wKNBJvHb0=",
+  "Source": "TwitterAPIStreamApp",
+  "BasePath": "_content/TwitterAPIStreamApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
